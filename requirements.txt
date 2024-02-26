@@ -1,0 +1,14 @@
+loguru
+boto3
+pyspark
+findspark
+mysql-connector-python
+numpy
+pandas
+scikit-learn
+matplotlib
+mlflow
+imblearn
+apache-airflow
+aws
+requests
