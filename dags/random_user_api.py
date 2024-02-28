@@ -5,8 +5,8 @@ from io import StringIO
 
 ###################### Get S3 client #####################
 s3= boto3.resource(service_name='s3',region_name='us-east-1',
-aws_access_key_id = 'AKIAZQ3DPTIFZLXQCWr4',
-aws_secret_access_key = 'LQu0xCtBCxnb09ZmZUJanY3457HwxWNgaQxX6Yr4e')
+aws_access_key_id = 'FAKEKEYIFZLXQCWr4',
+aws_secret_access_key = 'LQuFAKEKEYEXPOSEDb09ZmZUJanY3457HwxWNgaQxX6Yr4e')
 
 # *******************Writing the sript to fetch data from api************************
 
